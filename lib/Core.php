@@ -1,6 +1,6 @@
 <?php
 
-namespace cooltavie;
+namespace frw;
 
 class Core{
 
